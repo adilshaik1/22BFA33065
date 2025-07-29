@@ -1,6 +1,6 @@
 import { Routes, Route } from 'react-router-dom' ;
-import ShortenPage from './pages/ShortenPage';
-import StatsPage from './pages/StatsPage';
+import ShortenPage from './pages/shortenPage';
+import StatsPage from './pages/statsPage';
 import RedirectPage from './pages/RedirectPage';
 const App = () => {
   return (
